@@ -1,0 +1,15 @@
+C:\Dev\Exercicio_CSharp_CalculadoraSimples\bin\Debug\net8.0\Exercicio_CSharp_CalculadoraSimples.exe
+C:\Dev\Exercicio_CSharp_CalculadoraSimples\bin\Debug\net8.0\Exercicio_CSharp_CalculadoraSimples.deps.json
+C:\Dev\Exercicio_CSharp_CalculadoraSimples\bin\Debug\net8.0\Exercicio_CSharp_CalculadoraSimples.runtimeconfig.json
+C:\Dev\Exercicio_CSharp_CalculadoraSimples\bin\Debug\net8.0\Exercicio_CSharp_CalculadoraSimples.dll
+C:\Dev\Exercicio_CSharp_CalculadoraSimples\bin\Debug\net8.0\Exercicio_CSharp_CalculadoraSimples.pdb
+C:\Dev\Exercicio_CSharp_CalculadoraSimples\obj\Debug\net8.0\Exercicio_CSharp_CalculadoraSimples.GeneratedMSBuildEditorConfig.editorconfig
+C:\Dev\Exercicio_CSharp_CalculadoraSimples\obj\Debug\net8.0\Exercicio_CSharp_CalculadoraSimples.AssemblyInfoInputs.cache
+C:\Dev\Exercicio_CSharp_CalculadoraSimples\obj\Debug\net8.0\Exercicio_CSharp_CalculadoraSimples.AssemblyInfo.cs
+C:\Dev\Exercicio_CSharp_CalculadoraSimples\obj\Debug\net8.0\Exercicio_CSharp_CalculadoraSimples.csproj.CoreCompileInputs.cache
+C:\Dev\Exercicio_CSharp_CalculadoraSimples\obj\Debug\net8.0\Exercicio_CSharp_CalculadoraSimples.sourcelink.json
+C:\Dev\Exercicio_CSharp_CalculadoraSimples\obj\Debug\net8.0\Exercicio_CSharp_CalculadoraSimples.dll
+C:\Dev\Exercicio_CSharp_CalculadoraSimples\obj\Debug\net8.0\refint\Exercicio_CSharp_CalculadoraSimples.dll
+C:\Dev\Exercicio_CSharp_CalculadoraSimples\obj\Debug\net8.0\Exercicio_CSharp_CalculadoraSimples.pdb
+C:\Dev\Exercicio_CSharp_CalculadoraSimples\obj\Debug\net8.0\Exercicio_CSharp_CalculadoraSimples.genruntimeconfig.cache
+C:\Dev\Exercicio_CSharp_CalculadoraSimples\obj\Debug\net8.0\ref\Exercicio_CSharp_CalculadoraSimples.dll
