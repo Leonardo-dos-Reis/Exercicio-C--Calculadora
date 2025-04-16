@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Threading;
 
 namespace CalculadoraCSharp
 {
@@ -32,7 +33,7 @@ namespace CalculadoraCSharp
                 case 2: Subtracao(); break;
                 case 3: Multiplicacao(); break;
                 case 4: Divisao(); break;
-                case 5: System.Environment.Exit(0); break;
+                case 5: Sair(); break;
                 default: Menu(); break;
             }
         }
@@ -123,6 +124,25 @@ namespace CalculadoraCSharp
             Console.WriteLine("Pressione qualquer tecla para voltar ao menu");
             Console.ReadKey();
             Menu();
+        }
+
+        static void Sair()
+        {
+            Console.Clear();
+            
+             int tempo = 1;
+             int tempoatual = 4;
+
+             while (tempoatual != tempo)
+             {
+                 Console.Clear();
+                 tempoatual--;
+                 Console.WriteLine("");
+                 Console.WriteLine($"Você irá sair em {tempoatual}");
+                 Thread.Sleep(1000);
+             }
+            Console.Clear();
+            System.Environment.Exit(0);
         }
     }
 }

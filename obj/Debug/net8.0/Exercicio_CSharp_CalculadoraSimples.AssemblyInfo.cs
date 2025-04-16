@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Exercicio_CSharp_CalculadoraSimples")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6390bc7453b265188ad23c2fd8daee969ea8e937")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+cc22a691e1024cacdc041f3caae087e916c516f8")]
 [assembly: System.Reflection.AssemblyProductAttribute("Exercicio_CSharp_CalculadoraSimples")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Exercicio_CSharp_CalculadoraSimples")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
